@@ -1,0 +1,43 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(189, 189, 189);
+}
+
+.centro{
+    width: 940px;
+    padding: 80px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.959);
+    box-shadow: 0 0 10px rgba(0,0,0);
+    height: 1200px;
+}
+#icone{
+    max-width: 40px;
+}
+.minhaFoto{
+    max-width: 150px;
+    border-radius: 40px;
+}
+h1{
+    font-size:46px;
+    margin: 0.5em;
+}
+h2{
+    font-size: 28px;
+}
+h3{
+    border: solid 1px;
+    border-color: black;
+    padding: 2px;
+}
+ul,h3{
+    text-align: left;
+}
+li{
+    list-style: square;
+    margin: 10px auto;
+}
+.itemImagem{
+    list-style-type:none;
+}
